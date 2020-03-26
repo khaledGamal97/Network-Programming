@@ -1,6 +1,6 @@
 #import libraries
 from tkinter import *
-from tkinter import messagebox,Button,Label
+from tkinter import messagebox
 #GUI window
 wind=Tk()
 wind.title("Tic Tac Toe")#GUI window title
